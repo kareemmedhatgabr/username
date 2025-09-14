@@ -15,14 +15,7 @@
 
 ## 🛠️ Tech Stack & Skills  
 
-[![HTML5](https://img.shields.io/badge/HTML5---Founder-E34F26?logo=html5&logoColor=white)](#)  
-[![CSS3](https://img.shields.io/badge/CSS3---Expert-1572B6?logo=css3&logoColor=white)](#)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-Pro-F7DF1E?logo=javascript&logoColor=black)](#)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-Pro-3178C6?logo=typescript&logoColor=white)](#)  
-[![React](https://img.shields.io/badge/React-Developer-61DAFB?logo=react&logoColor=black)](#)  
-[![C](https://img.shields.io/badge/C-Language-Expert-A8B9CC?logo=c&logoColor=white)](#)  
-[![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B&logoColor=white)](#)  
-[![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D?logo=arduino&logoColor=white)](#)
+[![HTML5](https://img.shields.io/badge/HTML5---Founder-E34F26?logo=html5&logoColor=white)](#)  [![CSS3](https://img.shields.io/badge/CSS3---Expert-1572B6?logo=css3&logoColor=white)](#)  [![JavaScript](https://img.shields.io/badge/JavaScript-Pro-F7DF1E?logo=javascript&logoColor=black)](#)  [![TypeScript](https://img.shields.io/badge/TypeScript-Pro-3178C6?logo=typescript&logoColor=white)](#)  [![React](https://img.shields.io/badge/React-Developer-61DAFB?logo=react&logoColor=black)](#)  [![C](https://img.shields.io/badge/C-Language-Expert-A8B9CC?logo=c&logoColor=white)](#)  [![C++](https://img.shields.io/badge/C++-Advanced-00599C?logo=c%2B%2B&logoColor=white)](#)  [![Arduino](https://img.shields.io/badge/Arduino-Embedded-00979D?logo=arduino&logoColor=white)](#)
 
 ---
 
